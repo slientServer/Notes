@@ -8,4 +8,4 @@
 ### Knowledge_hierarchy(敏捷开发知识体系)
 敏捷框架概述及知识体系。<a href="https://github.com/slientServer/Notes/blob/master/Agile/knowledge_hierarchy.md">Knowledge Hierarchy</a>
 ### Agile_Retrospectives(敏捷回顾)
-敏捷回顾。
+敏捷回顾。<a https://github.com/slientServer/Notes/blob/master/Agile/Agile_Retrospectives.md>Agile Retrospectives</a>
