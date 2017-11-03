@@ -1,6 +1,6 @@
 # 硝烟中的Scrum和XP
 
-##1. 怎样编写产品backlog
+## 1. 怎样编写产品backlog
 
 - 故事
 	- ID
@@ -14,11 +14,11 @@
 	- Requestor(请求者)
 	- Bug tracking ID
 
-##2. Sprints之间的修整时刻
+## 2. Sprints之间的修整时刻
 
 - 实验日
 
-##3. 组合使用Scrum和XP
+## 3. 组合使用Scrum和XP
 
 - Scrum: 注重管理和组织实践
 - XP: 注重实际编程
@@ -31,5 +31,5 @@
 - 代码标准
 - 可持续的开发进度/精力充沛的工作
 
-##4. Scrum-of-Scrums
-
+## 4. Scrum-of-Scrums
+---
